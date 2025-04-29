@@ -69,7 +69,7 @@ class AptRxData(gr.top_block, Qt.QWidget):
         ##################################################
         # Variables
         ##################################################
-        self.prefix = prefix = "/home/hagit/sdr-apt/wav"
+        self.prefix = prefix = "/home/hagit/AptRx-data/wav"
         self.samp_rate = samp_rate = 960000
         self.recfile3 = recfile3 = prefix +"am_demod/"+ datetime.now().strftime("%Y.%m.%d.%H.%M.%S") + "_20800.wav"
         self.recfile2 = recfile2 = prefix +"am_demod/"+ datetime.now().strftime("%Y.%m.%d.%H.%M.%S") + ".wav"

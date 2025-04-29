@@ -79,7 +79,7 @@ blocks:
   id: variable
   parameters:
     comment: ''
-    value: '"/home/hagit/sdr-apt/wav"'
+    value: '"/home/hagit/AptRx-data/wav"'
   states:
     bus_sink: false
     bus_source: false
@@ -149,7 +149,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [344, 380]
+    coordinate: [272, 376.0]
     rotation: 0
     state: enabled
 - name: audio_sink_0
@@ -166,7 +166,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [744, 540]
+    coordinate: [592, 496.0]
     rotation: 0
     state: enabled
 - name: blocks_complex_to_mag_0
@@ -182,7 +182,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1344, 488]
+    coordinate: [1048, 400.0]
     rotation: 0
     state: enabled
 - name: blocks_delay_0
@@ -202,7 +202,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [2200, 476]
+    coordinate: [1248, 768.0]
     rotation: 0
     state: enabled
 - name: blocks_file_source_0
@@ -242,7 +242,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [2408, 476]
+    coordinate: [1384, 704.0]
     rotation: 0
     state: enabled
 - name: blocks_moving_average_xx_0
@@ -262,7 +262,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1808, 462]
+    coordinate: [1128, 512.0]
     rotation: 0
     state: enabled
 - name: blocks_multiply_const_vxx_0
@@ -280,7 +280,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [552, 388]
+    coordinate: [456, 384.0]
     rotation: 0
     state: enabled
 - name: blocks_multiply_const_vxx_1
@@ -298,7 +298,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1992, 476]
+    coordinate: [1192, 672.0]
     rotation: 0
     state: enabled
 - name: blocks_throttle_0
@@ -339,7 +339,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1120, 750]
+    coordinate: [880, 664.0]
     rotation: 0
     state: enabled
 - name: blocks_wavfile_sink_1
@@ -361,7 +361,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [2584, 566]
+    coordinate: [1472, 528.0]
     rotation: 0
     state: enabled
 - name: blocks_wavfile_sink_1_0
@@ -383,7 +383,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [2584, 660]
+    coordinate: [1400, 784.0]
     rotation: 0
     state: enabled
 - name: hilbert_fc_0
@@ -401,7 +401,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1184, 484]
+    coordinate: [888, 392.0]
     rotation: 0
     state: enabled
 - name: import_0
@@ -438,7 +438,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1520, 436]
+    coordinate: [1064, 256.0]
     rotation: 0
     state: enabled
 - name: qtgui_freq_sink_x_0
@@ -519,7 +519,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [408, 636]
+    coordinate: [360, 616.0]
     rotation: 0
     state: enabled
 - name: qtgui_freq_sink_x_1
@@ -600,7 +600,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1120, 628]
+    coordinate: [888, 552.0]
     rotation: 0
     state: enabled
 - name: qtgui_time_sink_x_0
@@ -697,7 +697,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1120, 548]
+    coordinate: [880, 456.0]
     rotation: 0
     state: enabled
 - name: qtgui_time_sink_x_0_0
@@ -794,7 +794,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1216, 310]
+    coordinate: [896, 160.0]
     rotation: 180
     state: enabled
 - name: qtgui_time_sink_x_1
@@ -891,7 +891,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [2616, 462]
+    coordinate: [1344, 424.0]
     rotation: 0
     state: enabled
 - name: qtgui_time_sink_x_2
@@ -988,7 +988,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [408, 724]
+    coordinate: [360, 720.0]
     rotation: 0
     state: enabled
 - name: qtgui_waterfall_sink_x_0
@@ -1049,7 +1049,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [408, 556]
+    coordinate: [360, 512.0]
     rotation: 0
     state: enabled
 - name: rational_resampler_xxx_0_0
@@ -1069,7 +1069,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [760, 364]
+    coordinate: [648, 360.0]
     rotation: 0
     state: enabled
 - name: tab
